@@ -1,5 +1,9 @@
+![Line](https://github.com/user-attachments/assets/af196ab0-15ac-438d-91ec-49b911e01ad1)
 <div align="center">
-  <h1>📺 Ростелеком IPTV Player</h1>
+  <h1>📺 Ростелеком ТВ</h1>  
+
+![Line](https://github.com/user-attachments/assets/af196ab0-15ac-438d-91ec-49b911e01ad1)  
+  
   <p>Веб-плеер для просмотра телеканалов от Ростелеком</p>
    
   <h3>
@@ -12,7 +16,7 @@
   </h3>
 </div>
 
----
+![Line](https://github.com/user-attachments/assets/af196ab0-15ac-438d-91ec-49b911e01ad1)
 
 ## ✨ О проекте
 
